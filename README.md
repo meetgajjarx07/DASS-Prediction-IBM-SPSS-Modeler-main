@@ -8,12 +8,12 @@ Make sure that you have the following:
 ## Prediction:
 <p align="left">
   <a class="image fit"><b>Logistic Regression</b>
-  	<img src="https://github.com/DeepKariaX/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Logistic_Regression.png" alt="">
+  	<img src="https://github.com/meetgajjarx07/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Logistic_Regression.png" alt="">
   </a>
 </p>
 <br>
 <p align="left">
     <a class="image fit"><b>Random Forest</b>
-  	<img src="https://github.com/DeepKariaX/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Random_Forest.png" alt="">
+  	<img src="https://github.com/meetgajjarx07/DASS-Prediction-IBM-SPSS-Modeler/blob/main/Prediction/DASS_Prediction_Random_Forest.png" alt="">
   </a>
 </p>
